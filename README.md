@@ -5,8 +5,6 @@
 
 A **nature-inspired maze pathfinding system** using **Ant Colony Optimization (ACO)**, complete with stunning real-time visualizations showing pheromone trail emergence and swarm intelligence in action.
 
-
-
 ---
 
 ## 🌟 Features
@@ -20,7 +18,6 @@ A **nature-inspired maze pathfinding system** using **Ant Colony Optimization (A
 - **⚙️ Highly Configurable**: Easily tune α, β, ρ, ant population, and more
 - **📦 Modular Architecture**: Clean 6-file structure for easy experimentation
 
-
 ---
 
 ## 🚀 Quick Start
@@ -29,8 +26,8 @@ A **nature-inspired maze pathfinding system** using **Ant Colony Optimization (A
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/aco-maze-solver.git
-cd aco-maze-solver
+git clone https://github.com/rafeeqinea/Natural-Computing.git
+cd Natural-Computing
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -351,7 +348,7 @@ Contributions are welcome! Ideas for improvements:
 
 **Project Maintainer**: Mohammed Rafeeq  
 **Email**: m.rafeeq@gre.ac.uk  
-**GitHub**: [yourusername](https://github.com/yourusername)
+**GitHub**: [@rafeeqinea](https://github.com/rafeeqinea)
 
 ---
 
