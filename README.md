@@ -232,16 +232,6 @@ Wait for multiple ants to find paths before stopping. Observe path diversity.
 ✅ **Adaptive**: Pheromone evaporation allows recovery from early bad decisions  
 ✅ **Probabilistic**: Explores multiple paths simultaneously, finds alternatives  
 
-### Why PSO/GA Failed (Lessons Learned)
-
-This project was arrived at after extensive experimentation with hybrid approaches:
-
-❌ **PSO (Particle Swarm Optimization)**: Continuous position updates leak through walls, velocity concept meaningless in discrete grid  
-❌ **GA (Genetic Algorithms)**: Crossover/mutation on paths produce invalid routes requiring expensive repair  
-❌ **DFO (Dispersive Flies)**: Adds complexity without benefit over direct graph methods  
-
-**Key Lesson**: Algorithm-problem fit matters more than algorithmic sophistication. ACO was designed for discrete graph traversal, making it ideal for maze pathfinding without forcing continuous algorithms into discrete domains.
-
 ---
 
 ## 📚 Swarm Intelligence Principles
