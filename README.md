@@ -5,8 +5,7 @@
 
 A **nature-inspired maze pathfinding system** using **Ant Colony Optimization (ACO)**, complete with stunning real-time visualizations showing pheromone trail emergence and swarm intelligence in action.
 
-![ACO Maze Solution](outputs/hero.png)
-*Dual-pheromone visualization: Red trails show exploration, white/yellow trails mark successful paths, cyan line is the optimal route.*
+
 
 ---
 
