@@ -20,6 +20,7 @@ A **nature-inspired maze pathfinding system** using **Ant Colony Optimization (A
 - **⚙️ Highly Configurable**: Easily tune α, β, ρ, ant population, and more
 - **📦 Modular Architecture**: Clean 6-file structure for easy experimentation
 
+
 ---
 
 ## 🚀 Quick Start
