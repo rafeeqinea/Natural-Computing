@@ -342,13 +342,6 @@ Contributions are welcome! Ideas for improvements:
 - **Natural Computing community** for inspiration from biological systems
 - **Python scientific stack** (NumPy, Matplotlib) for excellent tools
 
----
-
-## 📧 Contact
-
-**Project Maintainer**: Mohammed Rafeeq  
-**Email**: m.rafeeq@gre.ac.uk  
-**GitHub**: [@rafeeqinea](https://github.com/rafeeqinea)
 
 ---
 
